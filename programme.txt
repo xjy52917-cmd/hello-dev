@@ -1,7 +1,7 @@
 #Ce qu'il faut faire
 
-*Ajouter et modifier des fichiers
-*ajouter d'autres personne au projet?
+*Ajouter des fichiers
+*Modifier des ficiers
 *Voir l'historique
 *Ne pas avoir peut des merge et des rabase
 *ajout d'utilisateurs?
