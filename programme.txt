@@ -3,4 +3,6 @@
 *Ajouter des fichiers
 *Modifier des ficiers
 *Voir l'historique
-*Ne pas avoir peut des merge
+*Ne pas avoir peut des merge et des rabase
+*ajout d'utilisateurs?
+*supprimer des commits?
